@@ -37,9 +37,7 @@ mode        : selfcontained # {standalone, draft}
 --- 
 
 ## Example
-
 Example : Working it out in R
-
 
 ```r
 ## Mother's Height in cm
@@ -55,5 +53,4 @@ cHeight
 ```
 ## [1] 153.5
 ```
-
 ---

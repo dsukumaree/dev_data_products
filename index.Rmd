@@ -37,9 +37,7 @@ mode        : selfcontained # {standalone, draft}
 --- 
 
 ## Example
-
 Example : Working it out in R
-
 ```{r}
 ## Mother's Height in cm
 mHeight <- 150
@@ -50,5 +48,4 @@ cSex <- 1
 if (cSex == 1) cHeight <- ((fHeight - 13) + mHeight)/2  else  cHeight <- ((mHeight + 13) + fHeight)/2 
 cHeight
 ```
-
 ---
