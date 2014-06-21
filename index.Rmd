@@ -24,7 +24,7 @@ mode        : selfcontained # {standalone, draft}
 
 --- 
 
-## Prediction Algorithm
+## Prediction algorithm
 
 1. This height prediction is based on the sex adjusted midparental height and the methods below.
 2. For girls: subtract 13 cm from the father's height and average with the mother's height.
