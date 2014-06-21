@@ -12,7 +12,7 @@ mode        : selfcontained # {standalone, draft}
 
 ## Introduction
 
-1. Most parents are curious to see how tall/short their child will be
+1. Most parents are curious to see how tall/short their child will be as an adult
 2. Child Height Predictor app predicts child's height based on sex and mid-parental height
 3. Simple and easy to use!
 
