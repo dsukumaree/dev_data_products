@@ -45,7 +45,7 @@ mHeight <- 150
 fHeight <- 170
 ## child's sex: 1 for female and 2 for male
 cSex <- 1
-if (cSex == 1) cHeight <- ((fHeight - 13) + mHeight)/2  else  cHeight <- ((mHeight + 13) + fHeight)/2 
+if (cSex==1) cHeight<-((fHeight-13)+mHeight)/2 else cHeight<-((mHeight+13)+fHeight)/2 
 cHeight
 ```
 ---
